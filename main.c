@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 int main() {
-    int a = 5, b = 7;
-    int sum = a + b;
-    printf("Somme de %d + %d = %d\n", a, b, sum);
+    int a = 6, b = 8;
+    int produit = a * b;
+    printf("Produit de %d * %d = %d\n", a, b, produit);
     return 0;
 }
